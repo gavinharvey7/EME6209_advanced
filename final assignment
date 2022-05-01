@@ -1,0 +1,68 @@
+<DOCTYPE html>
+<html>
+<html lang = "en">
+<head></head>
+<body>
+<header>
+  <img src="https://images.squarespace-cdn.com/content/v1/5cbf6245f4e5311aabbdca11/1584497803228-81638MGINNONP2ZYUVNS/011720NYRE-6249%2Bcopy.jpg?format=2500w" alt="Recording Studio with monitors and midi controller" style="width:600px;height:600px;">
+  <h1 style="font size:62px;color:000000;font-family:Times New Roman (serif)" ">Digital Audio Workstation Preferences</h1>
+<title>Digital Audio Workstation Preferences</title>
+<p style="font-family:Times New Roman (serif)">
+  Please provide your opinion on which digital audio workstation (DAW) is the best to use.
+  </p>
+  </header>
+  <form action>
+    <!-- Contact Info -->
+    <div class="form-group">
+      <h2 class="heading" style="font-family:Times New Roman (serif); color:000000;">Contact Info
+      </h2>
+      <div class="controls">
+        <input type="text" id="name" class="floatLabel" name="name">
+        <label for="name">Name</label>
+      </div>
+      <div class="controls">
+        <input type="email address" id="email address" class="floatLabel" name="Email address">
+       Email address
+        <div class="form-group"> 
+          <h2 class="heading" style="font-family:Times New Roman (serif);color:000000;" ">What's your favorite DAW? Type Yes or No below
+          </h2>
+          <div class="controls">
+            <input type="tel" id="cell" class="floatLabel" name="cell">
+            <label for="cell">Studio One</label>
+          </div>
+          <div class="controls">
+            <input type="tel" id="cell" class="floatLabel" name="cell">
+            <label for="cell">Ableton Live</label>
+          </div>
+          <div class="controls">
+            <input type="tel" id="cell" class="floatLabel" name="cell">
+            <label for="cell">FL Studio</label>
+          </div>
+          <div class="controls">
+            <input type="tel" id="cell" class="floatLabel" name="cell">
+            <label for="cell">Pro Tools</label>
+          </div>
+          <div class="controls">
+            <input type="tel" id="cell" class="floatLabel" name="cell">
+            <label for="cell">Logic Pro X</label>
+          </div>
+          <div class="controls">
+            <input type="tel" id="cell" class="floatLabel" name="cell">
+            <label for="cell">Garage Band</label>
+          </div>
+          <div class="controls">
+            <input type="tel" id="cell" class="floatLabel" name="cell">
+            <label for="cell">Cubase</label>
+          </div>
+        </div>
+        <div class="controls">
+          <br>
+          <br>
+          <button>Submit</button>
+        </div>
+      </div>
+    </form>
+    </body>
+    </html>
+    
+
